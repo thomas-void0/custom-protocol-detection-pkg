@@ -1,4 +1,4 @@
-# cpd-pkg
+# custom-protocol-detection-pkg
 
 > npm package of [custom-protocol-detection](https://github.com/ismailhabib/custom-protocol-detection).
 
