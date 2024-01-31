@@ -6,7 +6,7 @@
 
 the lib is npm package of custom-protocol-detection. you can use it check custom protocol whether installed in your device. If protocol is installed, it will be launch via broswer.
 
-this is online demo. It will open your eamil app. [try]() 
+this is online demo. It will open your eamil app. [try](https://custom-protocol-detection-pkg-example.vercel.app/) 
 
 # Install
 
