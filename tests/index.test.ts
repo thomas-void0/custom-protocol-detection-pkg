@@ -1,7 +1,8 @@
 import { describe, expect, test } from 'vitest'
+import { checkBrowser } from '../src/utils'
 
-describe('condition', () => {
+describe('test utils function', () => {
   test('test', () => {
-    expect(1).toBe(1)
+    expect(checkBrowser()).toStrictEqual({})
   })
 })

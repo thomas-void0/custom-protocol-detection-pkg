@@ -1,0 +1,41 @@
+.wrapper{
+  width: 300px;
+  margin: 60px auto;
+}
+.title{
+  color: gray;
+}
+.box{
+  margin-top: 24px;
+  height: 120px;
+  border: 1px solid orange;
+  border-radius: 4px;
+  padding: 12px;
+}
+
+.box span{
+  text-decoration: underline;
+}
+
+.btnBox{
+  display: flex;
+  align-items: center;
+  margin-top: 24px;
+  justify-content: space-between;
+}
+.btn{
+  width: 120px;
+  height: 32px;
+  border-radius: 4px;
+  border: 1px solid orange;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-color: orange;
+
+  &:hover{
+    opacity: 0.8;
+  }
+}

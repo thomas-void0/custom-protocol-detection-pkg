@@ -1,17 +1,19 @@
 {
-  "name": "ts-template",
-  "version": "0.0.0",
-  "description": "a template for typescript project or plugin",
+  "name": "custom-protocol-detection-pkg",
+  "version": "0.0.1",
+  "description": "npm package of custom-protocol-detection",
   "type": "module",
   "keywords": [
-    "TODO"
+    "protocol",
+    "check",
+    "detection"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hemengke1997/ts-template.git"
+    "url": "git+https://github.com/thomas-void0/custom-protocol-detection-pkg.git"
   },
-  "author": "hemengke <https://github.com/hemengke1997>",
+  "author": "thomas-void0 <https://github.com/thomas-void0>",
   "files": [
     "CHANGELOG.md",
     "README.md",
